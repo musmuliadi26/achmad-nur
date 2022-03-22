@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+* {
+	color: white;
+	font-family: 'Roboto Mono', monospace;
+}
+.sosmed{
+	display: flex;
+	letter-spacing: 20px;
+	justify-content: center;
+}
+#jumbotron{
+	padding-top: 8rem;
+}
+section{
+	padding-top: 6rem;
+}
+.navbar, footer{
+	background-color: #1e2124;
+}
+#jumbotron, #my-gallery{
+	background-color: #282b30;
+}
+#about-me, #contact-me {
+	background-color: #36393e;
+}
+.penghalang{
+	width: 100px;
+	height: 150px;
+}
